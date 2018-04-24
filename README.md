@@ -1,0 +1,1 @@
+Project used to introduce the use of NodeJS to create a 'localhost' server and display text.
